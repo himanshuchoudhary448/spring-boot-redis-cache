@@ -231,12 +231,3 @@ You can see the endpoint in `http://localhost:8080/swagger-ui.html` page.
 I used Swagger for visualization endpoints.
 
 
-![Endpoints](assets/endpoints.png)
-
-
-## Demo
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=4yr4JLRK6MM"><img src="https://img.youtube.com/vi/4yr4JLRK6MM/0.jpg" alt="Spring Boot + Redis + PostgreSQL Caching"></a>
-</div>
-
